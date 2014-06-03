@@ -48,3 +48,7 @@
 * We strip code from the html to prevent issues, like photos and embedded media, coming through to the homepage
 * We also try to keep things looking good across a wide variety of devices with our responsive theme. What looks good in your desktop browser may look terrible in a mobile browser or vice versa
 * We recommend using the **custom excerpt field** and writing a **short, plain text excerpt** for the best results
+<hr>
+
+#### Q: How do I control what appears in the lower right footer menu?
+**A:** Go to **Appearance > Menus**. The one you're looking for is called *footer navigation*. Here is more info on how to use [WordPress menus](http://codex.wordpress.org/Appearance_Menus_Screen?utm_content=buffer7debc&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
