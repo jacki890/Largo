@@ -40,3 +40,11 @@
 
 #### Q: In the Largo Follow Widget, can I change the appearance of the social media buttons?
 **A:** Those come to us from the providers, so we have very little control over their appearance.
+<hr>
+
+#### Q: Why do my HTML tags get stripped from excerpts, etc?
+**A:**
+
+* We strip code from the html to prevent issues, like photos and embedded media, coming through to the homepage
+* We also try to keep things looking good across a wide variety of devices with our responsive theme. What looks good in your desktop browser may look terrible in a mobile browser or vice versa
+* We recommend using the **custom excerpt field** and writing a **short, plain text excerpt** for the best results
