@@ -1,0 +1,36 @@
+- [[Using your site]]:
+	- [[Adding content]]
+	- [[Formatting content]]
+	- [[Optimizing content]]
+	- [[Custom taxonomies]]
+	- [[Custom landing pages]]
+	- [[Largo post templates]]
+- Site setup:
+	- [[Setup checklist]]
+	- [[General settings]]
+	- [[Adding users]]
+	- [[Theme options]]
+		- [[Homepage top templates]]
+		- [[Homepage bottom templates]]
+	- [[Menus]]
+	- [[Contact pages]]
+	- [[Sidebars and widgets]]
+	- [[Using plugins]]
+- Codex:
+	- [[Glossary]]
+	- [[The contents of the inc directory]]
+	- [[The contents of the lib directory]]
+	- [[Largo custom classes]]
+	- [[Largo custom functions]]
+	- [[Hooks and filters]]
+	- [[Code snippets]]
+	- [[Modifying Largo styles]]
+	- [[Modifying recommended plugins]]
+	- [[Modifying theme options]]
+
+-----------
+
+- [[Contributing to this wiki]]
+- [Largo Project website](http://largoproject.org/)
+- [INN website](http://investigativenewsnetwork.org)
+
