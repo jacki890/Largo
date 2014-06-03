@@ -55,11 +55,9 @@
 <hr>
 
 #### Q: I see the option to add sticky posts to the homepage, but how do I make a post sticky?
-**A:**
-
-* Only one post can be sticky at a time
-* To make a post sticky
-	* Go to **post edit** view
-	* Click the **Visibility** status (Public, Private, etc)
-	* Click the checkbox in front of **Stick this post to the front page**
-	* It will appear on the homepage
+**A:** Only one post can be sticky at a time. To make a post sticky:
+	
+* Go to **post edit** view
+* Click the **Visibility** status (Public, Private, etc)
+* Click the checkbox in front of **Stick this post to the front page**
+* It will appear on the homepage
