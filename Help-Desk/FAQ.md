@@ -61,3 +61,21 @@
 * Click the **Visibility** status (Public, Private, etc)
 * Click the checkbox in front of **Stick this post to the front page**
 * It will appear on the homepage
+<hr>
+
+#### Q: How can I create a custom sidebar for a single post?
+**A:** Do the following:
+
+1. Go to **Appearance > Theme Options**
+2. Click on the **Layout Options** tab
+3. Midway down that page, there is an area labeled **Sidebar Options**
+4. One per line, you can enter names of **additional sidebar regions**
+5. Save the Theme Options
+6. Go to the **Appearance > Widgets** menu where the new widget area you created in step #4 should be available
+7. Add the widgets you want to display (the same way you'd add them for the main sidebar)
+8. Go to the **edit screen** for the post where you want to display the custom sidebar
+9. Find **Layout Options** along the right side
+10. Under **Custom Sidebar**, select the sidebar you created from the drop down menu
+11. Publish the post, and it should now be displayed
+
+**Note:** This option is only available on posts, pages and series landing pages, but will soon be available on category and tag pages as well.
