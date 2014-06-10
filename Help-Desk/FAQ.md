@@ -83,3 +83,18 @@
 
 #### Q: Why doesn't anything happen when I click on a tag in a post? It doesn't appear to work like tags are supposed to.
 **A:** There's a plugin called [Simple Tags](https://wordpress.org/plugins/simple-tags/) on some Largo sites are using that helps to recommend tags for a given article. This is what is causing the behavior to differ from what you see in the WordPress documentation. You can find documentation for that plugin here: [https://wordpress.org/plugins/simple-tags/](https://wordpress.org/plugins/simple-tags/)
+<hr>
+
+#### Q: SEO, categories and tags, OH MY! How does Largo organize info on my site so people can find it easily?
+
+We have a great article on [how Largo handles taxonomies](https://github.com/INN/Largo/wiki/Custom-taxonomies) (a way to label and organize posts on your site). Essentially, **categories** should be the top level containers for content, while **tags** are more for keywords (people, cities, organizations, narrower topics, etc).
+
+Following that, we're working to build SEO rules into the theme (using the categories and tags as keywords for Google News, for example) so you don't have to do anything extra. 
+
+**Writing good, keyword-rich headlines** matters far more than categories and tags in determining how a given page ranks in search results for a given set of keywords.
+
+There are a number of other things you can do to improve rankings:
+
+* Make sure the **authors** on your site have completely filled out profiles that are linked with their Google+ profiles
+* Make sure partners or sites that republish your content are linking back to you whenever possible
+* Check out this [beginner's guide to SEO](http://moz.com/beginners-guide-to-seo)
