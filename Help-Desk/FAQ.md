@@ -79,3 +79,7 @@
 11. Publish the post, and it should now be displayed
 
 **Note:** This option is only available on posts, pages and series landing pages, but will soon be available on category and tag pages as well.
+<hr>
+
+#### Q: Why doesn't anything happen when I click on a tag in a post? It doesn't appear to work like tags are supposed to.
+**A:** There's a plugin called [Simple Tags](https://wordpress.org/plugins/simple-tags/) on some Largo sites are using that helps to recommend tags for a given article. This is what is causing the behavior to differ from what you see in the WordPress documentation. You can find documentation for that plugin here: [https://wordpress.org/plugins/simple-tags/](https://wordpress.org/plugins/simple-tags/)
