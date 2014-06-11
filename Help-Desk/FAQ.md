@@ -89,7 +89,7 @@
 
 We have a great article on [how Largo handles taxonomies](https://github.com/INN/Largo/wiki/Custom-taxonomies) (a way to label and organize posts on your site). Essentially, **categories** should be the top level containers for content, while **tags** are more for keywords (people, cities, organizations, narrower topics, etc).
 
-Following that, we're working to build SEO rules into the theme (using the categories and tags as keywords for Google News, for example) so you don't have to do anything extra. 
+Following that, we're working to build SEO rules into the theme (using the categories and tags as keywords for Google News, for example) so you don't have to do anything extra.
 
 **Writing good, keyword-rich headlines** matters far more than categories and tags in determining how a given page ranks in search results for a given set of keywords.
 
@@ -98,3 +98,9 @@ There are a number of other things you can do to improve rankings:
 * Make sure the **authors** on your site have completely filled out profiles that are linked with their Google+ profiles
 * Make sure partners or sites that republish your content are linking back to you whenever possible
 * Check out this [beginner's guide to SEO](http://moz.com/beginners-guide-to-seo)
+<hr>
+
+#### Q: Some of my embedded elements are gone or their appearance changed unexpectedly. What happened?
+**A:** Most often, this happens when a post is saved originally in **Text edit view**, and later it is switched to **Visual edit view** and saved. WordPress can strip out embedded JavaScript in posts when you switch between those views.
+
+**Best practice** is to only save posts in the **Text edit view**.
