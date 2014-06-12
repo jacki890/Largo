@@ -1,4 +1,4 @@
-The Largo theme comes packaged with plugins original created by NPR for Project Argo. In some cases we have made minor modifications to these plugins to ensure compatibility with the Largo theme so we recommend using the included versions. When you activate the Largo theme you should receive a message at the top of the WordPress admin dashboard that prompts you to install required and recommended plugins.
+The Largo theme comes packaged with plugins originally created by NPR for Project Argo. In some cases we have made minor modifications to these plugins to ensure compatibility with the Largo theme, so we recommend using the included versions. When you activate the Largo theme you should receive a message at the top of the WordPress admin dashboard that prompts you to install required and recommended plugins.
 
 ## Recommended Plugins (Appearance > Install Plugins)
 
