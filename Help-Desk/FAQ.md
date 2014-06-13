@@ -108,3 +108,18 @@ There are a number of other things you can do to improve rankings:
 
 #### Q: What kind of plugins can I use with Largo?
 **A:**  We have a list of [[recommended plugins|Using-plugins]] that were originally created by NPR project Argo, which Largo is based on. We also have a list of [[curated plugins|Using-plugins#curated-plugins]] that we know to work with Largo. [[Utilities|Using-plugins#utilities]] are there as well as Unsupported Plugins which we know to be incompatible with Largo. Check those lists first before choosing plugins and that should cover most of the functionality you need on your website. There are thousands of plugins out there and they vary as greatly in quality as they do in functionality. Keep this in mind when choosing to download one that isn't on our list and be sure to backup your site before activating it so you can revert back if it causes problems.
+<hr>
+
+#### Q: How do I include/exclude a specific category from being displayed on the homepage?
+**A:** There are many reasons why you might want your readers to see some categories of posts, but not others on the homepage. We have a way to explicitly specify that in the Largo Theme Options.
+
+1. First, find the **category ID** for the post in question.
+	* Go to **Posts > Categories** and click on the category as though you were going to edit it
+	* The URL will be something like "http://.../wp-admin/edit-tags.php?action=edit&taxonomy=**category&tag_ID=62**&post_type=post"
+	* The **tag ID** is the number you want. It's **62** in this example
+2. Once you have that ID, go to **Appearance > Theme Options** and choose the **Layout Options** tab
+3. Scroll down to the section labeled **Other Homepage Display Options**
+4. To exclude the category in this example, put "-62" in the box in front of **Categories to include or exclude**
+	* A minus will exclude a category
+	* no minus will limit the loop to that category
+5. You can add more as comma separated values
