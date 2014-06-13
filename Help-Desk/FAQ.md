@@ -104,3 +104,7 @@ There are a number of other things you can do to improve rankings:
 **A:** Most often, this happens when a post is saved originally in **Text edit view**, and later it is switched to **Visual edit view** and saved. WordPress can strip out embedded JavaScript in posts when you switch between those views.
 
 **Best practice** is to only save posts in the **Text edit view**.
+<hr>
+
+#### Q: What kind of plugins can I use with Largo?
+**A:**  We have a list of [[recommended plugins|Using-plugins]] that were originally created by NPR project Argo, which Largo is based on. We also have a list of [[curated plugins|Using-plugins#curated-plugins]] that we know to work with Largo. [[Utilities|Using-plugins#utilities]] are there as well as Unsupported Plugins which we know to be incompatible with Largo. Check those lists first before choosing plugins and that should cover most of the functionality you need on your website. There are thousands of plugins out there and they vary as greatly in quality as they do in functionality. Keep this in mind when choosing to download one that isn't on our list and be sure to backup your site before activating it so you can revert back if it causes problems.
