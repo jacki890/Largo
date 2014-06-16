@@ -133,3 +133,13 @@ There are a number of other things you can do to improve rankings:
 * Info on [setting up goals](http://searchengineland.com/a-beginner%E2%80%99s-guide-to-setting-goals-in-google-analytics-101826)
 * Some of our members use [Chartbeat](https://chartbeat.com/)
 * This site is great and offers free services for nonprofits [Web Analytics Demystified](http://www.webanalyticsdemystified.com/ae/)
+<hr>
+
+#### Q: Does Largo provide a way to customize the headline and excerpt for Google so they fit the character requirements of the SERP (Search Engine Results Page)?
+**A:** Not specifically at this time. We're planning to add some additional (optional) custom fields to address this need and also for things like tweeting text selections if somebody shares via the Twitter button, etc. and modify the theme accordingly to handle it in the background, but that has yet to be implemented.
+
+We don't recommend using SEO plugins, because they duplicate much of the functionality built into Largo. e.g.
+
+* Twitter card markup
+* Open graph tags
+* Canonical URLs, etc.
