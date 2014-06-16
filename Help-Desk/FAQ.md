@@ -122,4 +122,14 @@ There are a number of other things you can do to improve rankings:
 4. To exclude the category in this example, put "-62" in the box in front of **Categories to include or exclude**
 	* A minus will exclude a category
 	* no minus will limit the loop to that category
+
 5. You can add more as comma separated values
+<hr>
+
+#### Q: What can I use for analytics on my site?
+**A:** With Google Analytics, you can do everything from very basic traffic analysis to more complex analytics by tagging links, creating goals, etc. There are many resources available. Here are just a few:
+
+* [Overview of Google Analytics with WordPress](http://www.wpbeginner.com/beginners-guide/how-to-install-google-analytics-in-wordpress/)
+* Info on [setting up goals](http://searchengineland.com/a-beginner%E2%80%99s-guide-to-setting-goals-in-google-analytics-101826)
+* Some of our members use [Chartbeat](https://chartbeat.com/)
+* This site is great and offers free services for nonprofits [Web Analytics Demystified](http://www.webanalyticsdemystified.com/ae/)
