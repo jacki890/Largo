@@ -143,3 +143,15 @@ We don't recommend using SEO plugins, because they duplicate much of the functio
 * Twitter card markup
 * Open graph tags
 * Canonical URLs, etc.
+<hr>
+
+#### Q: Can I make all external links (off my site) open in a new window?
+**A:** While that isn't a global option, you can set this on a case by case basis. When you insert a link into a post, there is a check box labeled "open link in a new window." Check it for external links and leave it unchecked for links to other elements on your site.
+<hr>
+
+#### Q: How do I change how an excerpt looks in the footer?
+**A:** The excerpt is determined by the first few sentences of the post, so edit that to your liking. If you want a post to be displayed in the footer:
+
+* Open the **post's edit screen**
+* Go to the **Post Prominence** box on the right
+* Check the box for **Footer Featured Widget**
