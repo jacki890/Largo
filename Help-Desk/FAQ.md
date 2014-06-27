@@ -155,3 +155,7 @@ We don't recommend using SEO plugins, because they duplicate much of the functio
 * Open the **post's edit screen**
 * Go to the **Post Prominence** box on the right
 * Check the box for **Footer Featured Widget**
+<hr>
+
+#### Q: How do I change the link for the Donate button?
+**A:** Go to **Appearance > Theme Options** on the **Basic Settings** tab. There is a section labeled **Donate Button** and an option to show/hide it in the top header as well as to enter the **link to your donation page** and the text displayed on the button. "Donate Now" is the default.
