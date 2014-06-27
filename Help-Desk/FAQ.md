@@ -86,8 +86,7 @@
 ***
 
 #### Q: SEO, categories and tags, OH MY! How does Largo organize info on my site so people can find it easily?
-
-We have a great article on [how Largo handles taxonomies](https://github.com/INN/Largo/wiki/Custom-taxonomies) (a way to label and organize posts on your site). Essentially, **categories** should be the top level containers for content, while **tags** are more for keywords (people, cities, organizations, narrower topics, etc).
+**A:**We have a great article on [how Largo handles taxonomies](https://github.com/INN/Largo/wiki/Custom-taxonomies) (a way to label and organize posts on your site). Essentially, **categories** should be the top level containers for content, while **tags** are more for keywords (people, cities, organizations, narrower topics, etc).
 
 Following that, we're working to build SEO rules into the theme (using the categories and tags as keywords for Google News, for example) so you don't have to do anything extra.
 
@@ -180,3 +179,7 @@ Go through your site and **note the largest display size of each picture**. It m
 
 #### Q: Can I get the Featured Post sidebar and footer widgets to display excerpts I create rather than the first few lines of text (including captions)?
 **A:** Not at this time. In v0.4, we are using a more generic and flexible recent/featured posts widget and will no longer be using the current widgets.
+***
+
+#### Q: Where is the option for making navbar links dropdown menus in certain views?
+**A:** Under **Appearance > Menus**, the main navbar is broken into two different menu areas called **navbar categories list** and **navbar supplemental links**. The **supplemental links** are the ones that appear in the dropdown on smaller screens. Here is more info about [[menus|http://largoproject.org/setup/menus/]].
