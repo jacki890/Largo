@@ -183,3 +183,14 @@ Go through your site and **note the largest display size of each picture**. It m
 
 #### Q: Where is the option for making navbar links dropdown menus in certain views?
 **A:** Under **Appearance > Menus**, the main navbar is broken into two different menu areas called **navbar categories list** and **navbar supplemental links**. The **supplemental links** are the ones that appear in the dropdown on smaller screens. Here is more info about [[menus|http://largoproject.org/setup/menus/]].
+***
+
+#### Q: As an INN Member, what are the advantages of having you host our site vs. self-hosting elsewhere?
+**A:** Currently, all but one of our INN Member sites are hosted and maintained by us. The one site that doesn't has a dedicated tech staff to maintain their site, because their needs are very different from most of our members. Hosting with us, you get:
+
+* Free hosting on WP Engine, which is one of the best and most high performance hosts for WordPress sites available
+* Updates
+* Security and performance tuning
+* Support
+
+Self-hosting is fine for non-INN Members, but what we offer in our hosting is a great benefit and value with your INN Membership.
