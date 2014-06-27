@@ -159,3 +159,14 @@ We don't recommend using SEO plugins, because they duplicate much of the functio
 
 #### Q: How do I change the link for the Donate button?
 **A:** Go to **Appearance > Theme Options** on the **Basic Settings** tab. There is a section labeled **Donate Button** and an option to show/hide it in the top header as well as to enter the **link to your donation page** and the text displayed on the button. "Donate Now" is the default.
+<hr>
+
+#### Q: Can I change the way the "Related Stories" are picked?
+
+The current version of Largo (v0.3) shows other stories in the same **category** or with the same **tags** in a tabbed widget at the bottom of posts, ordered by the most recent.
+
+This will be improved significantly in our next release of Largo (v0.4). There will be a "Read this Next" widget that follows logic along these lines:
+
+1. Stories in the series
+2. Stories by tagged, starting with the least common
+3. Stories in the category, starting with latest posts
