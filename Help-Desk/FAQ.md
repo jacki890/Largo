@@ -52,7 +52,7 @@
 
 #### Q: How do I control what appears in the lower right footer menu?
 **A:** Go to **Appearance > Menus**. The one you're looking for is called *footer navigation*. Here is more info on how to use [WordPress menus](http://codex.wordpress.org/Appearance_Menus_Screen?utm_content=buffer7debc&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
-<hr>
+***
 
 #### Q: I see the option to add sticky posts to the homepage, but how do I make a post sticky?
 **A:** Only one post can be sticky at a time. To make a post sticky:
