@@ -194,3 +194,9 @@ Go through your site and **note the largest display size of each picture**. It m
 * Support
 
 Self-hosting is fine for non-INN Members, but what we offer in our hosting is a great benefit and value with your INN Membership.
+***
+
+#### Q: Can I increase/decrease the font size of the body text?
+**A:** We set the font size for the body type based on well established typographic conventions regarding readability. The main consideration here is [[line length rather than absolute type size|http://baymard.com/blog/line-length-readability]].
+
+Therefore, we recommend that you do **not** change the the font size using custom CSS as that will interfere with our line length optimization and would likely negatively impact the readability of your site.
