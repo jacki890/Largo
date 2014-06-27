@@ -170,3 +170,9 @@ This will be improved significantly in our next release of Largo (v0.4). There w
 1. Stories in the series
 2. Stories by tagged, starting with the least common
 3. Stories in the category, starting with latest posts
+<hr>
+
+#### Q: Why is my site taking so long to load?
+**A:** There are too many variables to answer this question generally, but often a good place to start is with the **size of the pictures** on the site. If a picture is displayed on a WordPress site as 150x150px, but the actual image is 4000x4000px, it's **the large image that's actually loaded into memory**.
+
+Go through your site and **note the largest display size of each picture**. It may be displayed in many places, (i.e. a thumbnail in a sidebar, or a featured image on the home page) so be sure to find the largest use. **Reduce all images to the largest size they will be displayed at on the site** and that should improve performance significantly.
